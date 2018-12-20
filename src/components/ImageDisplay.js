@@ -9,35 +9,35 @@ import treeseven from "../images/treeseven.png";
 import treeeight from "../images/treeeight.png";
 import treenine from "../images/treenine.png";
 
-// function ImageElement() {
-//     const imgStyle = {
-//         border: "1px solid #ddd",
-//         padding: "5px",
-//         width: "150px",
-//         height: "200px"
-//       };
+function ImageElement() {
+    const imgStyle = {
+        border: "1px solid #ddd",
+        padding: "5px",
+        width: "150px",
+        height: "200px"
+      };
 
-//       function handleClick(e) {
-//         e.preventDefault();
-//         shuffleArray();
-//       }
+      function handleClick(e) {
+        e.preventDefault();
+        //shuffleArray();
+      }
 
-//     const treeImages = [treeone, treetwo, treethree, treefour, treefive, treesix, treeseven, treeeight, treenine, treeone, treetwo, treethree, treefour, treefive, treesix, treeseven];
-//     const imgs = treeImages.map((image) =>
-//     <img src={image} style={imgStyle} onClick={handleClick}/>
-//     );
+    const treeImages = [treeone, treetwo, treethree, treefour, treefive, treesix, treeseven, treeeight, treenine, treeone, treetwo, treethree, treefour, treefive, treesix, treeseven];
+    const imgs = treeImages.map((image) =>
+    <img src={image} style={imgStyle} onClick={handleClick}/>
+    );
 
-// return <ul>{imgs}</ul>;
-// }
+return <ul>{imgs}</ul>;
+}
 
-// export default ImageElement;
+export default ImageElement;
 
 //Above code will render images, but does not shuffle their order
 
 // Shuffle Attempt:
 
 //Component ImageElement
-function ImageElement() {
+/* function ImageElement() {
     //Inline styling of images
     const imgStyle = {
         border: "1px solid #ddd",
@@ -78,7 +78,7 @@ function ImageElement() {
 
 }
 
-export default ImageElement; 
+export default ImageElement;  */
 
 
  
