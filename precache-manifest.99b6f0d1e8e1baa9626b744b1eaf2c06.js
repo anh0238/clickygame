@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/clickygame/static/media/treefour.d4be6aaf.png"
   },
   {
-    "revision": "68a858df1aa1c54c3673",
+    "revision": "3a195b9cdcb6eec5da03",
     "url": "/clickygame/static/css/main.d46f18b1.chunk.css"
   },
   {
-    "revision": "1d73500619109f487b00",
-    "url": "/clickygame/static/js/1.1d735006.chunk.js"
+    "revision": "3d077e9403275a86e16e",
+    "url": "/clickygame/static/js/1.3d077e94.chunk.js"
   },
   {
     "revision": "a70c675f9a23daa38fda",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/clickygame/static/media/treethree.0d433a38.png"
   },
   {
-    "revision": "68a858df1aa1c54c3673",
-    "url": "/clickygame/static/js/main.68a858df.chunk.js"
+    "revision": "3a195b9cdcb6eec5da03",
+    "url": "/clickygame/static/js/main.3a195b9c.chunk.js"
   },
   {
     "revision": "f87578b41978ebb5e63ce74f5c9f4dd5",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/clickygame/static/media/treenine.597000b6.png"
   },
   {
-    "revision": "7da77186b4f2ef3991bf102de0b7bc9a",
+    "revision": "cd3ad87d674b1d79ef568f86134171e6",
     "url": "/clickygame/index.html"
   }
 ];
